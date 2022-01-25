@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\bin\Debug\net6.0\Validar CPF.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\bin\Debug\net6.0\Validar CPF.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\bin\Debug\net6.0\Validar CPF.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\bin\Debug\net6.0\Validar CPF.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\bin\Debug\net6.0\ref\Validar CPF.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\bin\Debug\net6.0\Validar CPF.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\ref\Validar CPF.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Validar CPF\obj\Debug\net6.0\Validar CPF.genruntimeconfig.cache
